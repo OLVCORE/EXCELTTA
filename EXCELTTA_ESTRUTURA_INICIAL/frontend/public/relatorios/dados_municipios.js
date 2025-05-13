@@ -1,0 +1,1 @@
+const municipiosBase = [{Municipio:'Campinas', UF:'SP', Nota_Geral_CEPAG:'A', Endividamento_Perc:12.5, Nota_Endividamento:'A', Poupanca_Corrente_Perc:25.3, Nota_Poupanca_Corrente:'B', Liquidez_Relativa_Perc:10.2, Nota_Liquidez_Relativa:'A', RGF_Publicado:'Sim', RREO_Publicado:'Sim', Observacoes:''}];
